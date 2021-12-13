@@ -13,7 +13,9 @@
     The purpose of this program is to generate random messages.
     When the user executes the program, 3 pieces of data will join to create a random message.
     
-    Even though this is a simple project to pros I'm sure, I intend to document my methods as I complete the project
-    Capturing my methods will be a great reference to fall back on, and hey, if it helps you too, that's great!
-    
+    Even though this is a simple project to pros I'm sure, 
+    I intend to document my methods as I complete the project
+    Capturing my methods will be a great reference to fall back on, 
+    and hey, if it helps you too, that's great!
+
 
