@@ -20,30 +20,29 @@ My goal is simply to learn, learn from, and support others along the coding jour
 
 ## Methods
 
-####1. Plan Your Project
+1. Plan Your Project
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####2. Come Up With a Topic
+2. Come Up With a Topic
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####3. Create Script & Run Locally
+3. Create Script & Run Locally
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####4. Set up version control
+4. Set up version control
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####5. Store message components
+5. Store message components
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####6. Create the Message
+6. Create the Message
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####7. Put the program together
+7. Put the program together
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
 
-####8. Next Steps
+8. Next Steps
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
-
 
 ## Conclusion
 <br>    - oops, there's nothing here yet! Check back later! :zany_face:
