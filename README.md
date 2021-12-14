@@ -21,7 +21,7 @@ My goal is simply to learn, learn from, and support others along the coding jour
 ## Methods
 
 #### 1. Plan Your Project
-- oops, there's nothing here yet! Check back later! :zany_face:<br>
+- oops, there's nothing here yet! Check back later! :zany_face:
 
 
 #### 2. Come Up With a Topic
