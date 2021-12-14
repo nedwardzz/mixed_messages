@@ -20,7 +20,7 @@ My goal is simply to learn, learn from, and support others along the coding jour
 
 ## Methods
 
-#### 1. Plan Your Project
+### 1. Plan Your Project
 - The program is simple. We need to create a random message made up of 3 elements, and each can be whatever we want them to be!
 - This is a great opportunitiy to be creative, and have some fun!
 - For my approach, I'm going to create 4 arrays named:
@@ -34,27 +34,30 @@ My goal is simply to learn, learn from, and support others along the coding jour
 - Let's get started!
 
 
-#### 2. Come Up With a Topic
+### 2. Come Up With a Topic
+- As previously stated, my goal is to make a message generator that returns messages that are rude, but yet comical
+- The messages will consist of 3 sections, a reaction, observation, and a suggestion
+    - An example would be "Yikes! I think you need a shower! Do better!"
+    
+
+
+### 3. Create Script & Run Locally
 - oops, there's nothing here yet! Check back later! :zany_face:
 
 
-#### 3. Create Script & Run Locally
+### 4. Set up version control
 - oops, there's nothing here yet! Check back later! :zany_face:
 
 
-#### 4. Set up version control
+### 5. Store message components
 - oops, there's nothing here yet! Check back later! :zany_face:
 
 
-#### 5. Store message components
+### 6. Create the Message
 - oops, there's nothing here yet! Check back later! :zany_face:
 
 
-#### 6. Create the Message
-- oops, there's nothing here yet! Check back later! :zany_face:
-
-
-#### 7. Put the program together
+### 7. Put the program together
 - oops, there's nothing here yet! Check back later! :zany_face:
 
 
