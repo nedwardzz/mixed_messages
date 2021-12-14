@@ -23,26 +23,34 @@ My goal is simply to learn, learn from, and support others along the coding jour
 #### 1. Plan Your Project
 - oops, there's nothing here yet! Check back later! :zany_face:
 
+
 #### 2. Come Up With a Topic
 - oops, there's nothing here yet! Check back later! :zany_face:
+
 
 #### 3. Create Script & Run Locally
 - oops, there's nothing here yet! Check back later! :zany_face:
 
+
 #### 4. Set up version control
 - oops, there's nothing here yet! Check back later! :zany_face:
+
 
 #### 5. Store message components
 - oops, there's nothing here yet! Check back later! :zany_face:
 
+
 #### 6. Create the Message
 - oops, there's nothing here yet! Check back later! :zany_face:
+
 
 #### 7. Put the program together
 - oops, there's nothing here yet! Check back later! :zany_face:
 
+
 #### 8. Next Steps
 - oops, there's nothing here yet! Check back later! :zany_face:
+
 
 
 ## Conclusion
