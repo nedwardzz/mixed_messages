@@ -31,3 +31,14 @@ observations.push(`Did you touch my drumset?`);
 observations.push(`You need to grow up!`);
 mixedMessages.push(observations);
 //console.log(observations); // Uncomment to test observations array additions
+
+// Filling suggestions with a few strings
+suggestions.push(`Do better!`);
+suggestions.push(`Do you need help?`);
+suggestions.push(`Maybe you should hit the gym?`);
+suggestions.push(`Maybe you should stop talking?`);
+suggestions.push(`I'm not really sure how to help you.`);
+suggestions.push(`I need you to stop taking my stuff.`);
+suggestions.push(`Let's go shopping!`);
+mixedMessages.push(suggestions);
+//console.log(suggestions); // Uncomment to test suggestions array additions
