@@ -24,10 +24,14 @@ My goal is simply to learn, learn from, and support others along the coding jour
 - The program is simple. We need to create a random message made up of 3 elements, and each can be whatever we want them to be!
 - This is a great opportunitiy to be creative, and have some fun!
 - For my approach, I'm going to create 4 arrays named:
-    - **mixedMessages**......An array to store all 3 types of elements
-    - **reactions**..........The first element that stores types of reactions
-    - **observations**.......The second element that stores types of _obviously humorously rude_ observations
-    - **suggestions**........The third element that stores again, _obviously humorously rude_ suggestions
+    - **mixedMessages**
+        - An array to store all 3 types of elements
+    - **reactions**
+        - The first element that stores types of reactions
+    - **observations**
+        - The second element that stores types of _obviously humorously rude_ observations
+    - **suggestions**
+        - The third element that stores again, _obviously humorously rude_ suggestions
 
 - Understand that I in no way shape or form condone any messages that the generator may spit out.
 - My goal is simply to create a humorous message generator that when read and applied to 0 context or persons, one might just laugh :joy_cat:
