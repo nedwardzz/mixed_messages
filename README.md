@@ -77,19 +77,30 @@ My goal is simply to learn, learn from, and support others along the coding jour
 
 
 ### 6. Create the Message
-- oops, there's nothing here yet! Check back later! :zany_face:
+- It's helpful that we know just how many elements will be within the mixedMessage array given they're hard coded
+- Knowing there are 3 elements, I need to select a random element from all 3
+- Again, the elements I'm selecting are from the 3 arrays reactions, observations, and suggestions
+- I obtain these values through generating 3 random numbers, ensuring I'm only generating numbers that will select a truthy value from each array
+- The values are interpolated (`${ }` syntax) and returned as a message!
+- Oh, I made another commit here as well
 
 
 ### 7. Put the program together
-- oops, there's nothing here yet! Check back later! :zany_face:
+- Technically, the program meets the requirements of generating a random message comprised of 3 different elements picked at random
+- At this point, the program is finished!
 
 
 #### 8. Next Steps
-- oops, there's nothing here yet! Check back later! :zany_face:
+- Soon, I'm sure we'll learn more about user interaction. 
+- Once I get there, I think it'd be cool to give the user some additional functionalities like: 
+    - Add more messages to existing lists
+    - Create new lists with different categories of messages
+    - Swap out lists to mix up which ones are selected from to generate a new message
+- I intend to return to this program and add these functionalities once I know how!
 
 
 
 ## Conclusion
-- oops, there's nothing here yet! Check back later! :zany_face:
-
-
+- If you're like me, making it to this point of the learning path is really exciting!
+- We're moving on to web development next, and I'm eager to begin putting JS together with HTML/ CSS
+- I hope to connect with the CodeCademy community a bit more, and as always, happy coding!

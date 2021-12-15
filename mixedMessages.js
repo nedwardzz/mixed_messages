@@ -46,13 +46,13 @@ mixedMessages.push(suggestions);
 //console.log(mixedMessages) // Uncomment to test mixedMessages array additions
 
 function createMixedMessage (messageArray) {
-    const rand1 = Math.floor(Math.random() * 7);
-    const rand2 = Math.floor(Math.random() * 7);
-    const rand3 = Math.floor(Math.random() * 7);
+    const rand1 = Math.floor(Math.random() * (mixedMessages[0].length));
+    const rand2 = Math.floor(Math.random() * (mixedMessages[1].length));
+    const rand3 = Math.floor(Math.random() * (mixedMessages[2].length));
   
-    const newMessage = `${messageArray[0][rand1]}\n${messageArray[1][rand2]}\n${messageArray[2][rand3]}`;
-  
-    return newMessage;
+    return `${messageArray[0][rand1]}\n${messageArray[1][rand2]}\n${messageArray[2][rand3]}`;
   }
   
   console.log(createMixedMessage(mixedMessages));
+
+  // EOF
