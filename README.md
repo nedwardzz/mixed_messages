@@ -68,7 +68,12 @@ My goal is simply to learn, learn from, and support others along the coding jour
 
 
 ### 5. Store message components
-- oops, there's nothing here yet! Check back later! :zany_face:
+- I set up version control at the very beginning before scripting mixedMessages.js
+- As detailed above, I stored the elements of the message within 3 different arrays
+- I then stored all three of these arrays within a main array, mixedMessages
+- For readability, I pushed each element into the arrays one by one. Given that they are completely random, their order does not matter
+- For testing purposes, I like to log my data to the console to verify it's working as intended, then I comment out the test lines for future use (troubleshooting/ debugging)
+- I made a commit at this point too! 
 
 
 ### 6. Create the Message
