@@ -53,6 +53,6 @@ function createMixedMessage (messageArray) {
     return `${messageArray[0][rand1]}\n${messageArray[1][rand2]}\n${messageArray[2][rand3]}`;
   }
   
-  console.log(createMixedMessage(mixedMessages));
+console.log(createMixedMessage(mixedMessages));
 
-  // EOF
+// EOF
