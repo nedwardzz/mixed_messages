@@ -42,3 +42,17 @@ suggestions.push(`I need you to stop taking my stuff.`);
 suggestions.push(`Let's go shopping!`);
 mixedMessages.push(suggestions);
 //console.log(suggestions); // Uncomment to test suggestions array additions
+
+//console.log(mixedMessages) // Uncomment to test mixedMessages array additions
+
+function createMixedMessage (messageArray) {
+    const rand1 = Math.floor(Math.random() * 7);
+    const rand2 = Math.floor(Math.random() * 7);
+    const rand3 = Math.floor(Math.random() * 7);
+  
+    const newMessage = `${messageArray[0][rand1]}\n${messageArray[1][rand2]}\n${messageArray[2][rand3]}`;
+  
+    return newMessage;
+  }
+  
+  console.log(createMixedMessage(mixedMessages));
