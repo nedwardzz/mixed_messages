@@ -18,6 +18,12 @@ Capturing my methods will be a great reference to fall back on, build from, and 
 My goal is simply to learn, learn from, and support others along the coding journey.
 <br>About a year ago, I knew hardly anything about coding. I still have so much to learn, but the fact that I'm writing this on my mac in VS Code, versioning with GitHub, and seeign the results on my README in the browser is really cool!
 
+## Execute Program
+
+Ensure you have node installed and are in the directory where mixedMessages.js resides
+`node mixedMessages.js`
+
+
 ## Methods
 
 ### 1. Plan Your Project
