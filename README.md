@@ -20,7 +20,7 @@ My goal is simply to learn, learn from, and support others along the coding jour
 
 ## Execute Program
 
-Ensure you have node installed and are in the directory where mixedMessages.js resides
+Ensure you have node installed and are in the directory where mixedMessages.js resides<br>
 `node mixedMessages.js`
 
 
