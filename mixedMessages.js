@@ -9,3 +9,14 @@ let mixedMessages = [];
 let reactions = [];
 let observations = [];
 let suggestions = [];
+
+// Filling reactiosn with a few strings
+reactions.push(`Wow!`);
+reactions.push(`Yikes!`);
+reactions.push(`OMG!`);
+reactions.push(`Sorry!`);
+reactions.push(`Seriously?`);
+reactions.push(`I can't believe this!`);
+reactions.push(`Guess what!`);
+mixedMessages.push(reactions);
+//console.log(reactions); // Uncomment to test reactions array additions
