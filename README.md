@@ -59,7 +59,7 @@ My goal is simply to learn, learn from, and support others along the coding jour
     - Created my files in the working directory
     > touch README.md mixed_messages.js  
     - Initialized a git repo
-    > git init
+    git init
     - Staged and committed them (add . adds all fields in the working directory to the staging area for commit)
     > git add . && git commit -m "First Commit - Added README and js file"
     - Pushed them to GitHub!
