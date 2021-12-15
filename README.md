@@ -70,7 +70,7 @@ Ensure you have node installed and are in the directory where mixedMessages.js r
     `git add . && git commit -m "First Commit - Added README and js file"`
     - Pushed them to GitHub!<br>
     `git remote add origin https://github.com/nedwardzz/mixed_messages`<br>
-    `git push -u origin main`
+    `git push -u origin master`
 
 
 ### 5. Store message components
