@@ -54,15 +54,15 @@ My goal is simply to learn, learn from, and support others along the coding jour
 - In fact, as I've wrote this **README**, I've push my changes to this GitHub repo throughout as well!
 - To do this, I had to create a personal access token in the developer settings of my GitHub account
 - Using the **Command Line**:
-    - I created a directory named mixed_messages (my working directory)
+    - I created a directory named mixed_messages (my working directory)<br> 
     `mkdir mixed_messages`
-    - Created my files in the working directory
+    - Created my files in the working directory<br>
     `touch README.md mixed_messages.js`
-    - Initialized a git repo
+    - Initialized a git repo<br>
     `git init`
-    - Staged and committed them (add . adds all fields in the working directory to the staging area for commit)
+    - Staged and committed them (add . adds all fields in the working directory to the staging area for commit)<br>
     `git add . && git commit -m "First Commit - Added README and js file"`
-    - Pushed them to GitHub!
+    - Pushed them to GitHub!<br>
     `git remote add origin https://github.com/nedwardzz/mixed_messages`
     `git push -u origin main`
 
