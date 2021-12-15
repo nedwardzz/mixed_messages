@@ -55,16 +55,16 @@ My goal is simply to learn, learn from, and support others along the coding jour
 - To do this, I had to create a personal access token in the developer settings of my GitHub account
 - Using the **Command Line**:
     - I created a directory named mixed_messages (my working directory)
-    > mkdir mixed_messages
+    `mkdir mixed_messages`
     - Created my files in the working directory
-    > touch README.md mixed_messages.js  
+    `touch README.md mixed_messages.js`
     - Initialized a git repo
-    git init
+    `git init`
     - Staged and committed them (add . adds all fields in the working directory to the staging area for commit)
-    > git add . && git commit -m "First Commit - Added README and js file"
+    `git add . && git commit -m "First Commit - Added README and js file"`
     - Pushed them to GitHub!
-    > git remote add origin https://github.com/nedwardzz/mixed_messages
-    > git push -u origin main
+    `git remote add origin https://github.com/nedwardzz/mixed_messages`
+    `git push -u origin main`
 
 
 ### 5. Store message components
